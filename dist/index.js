@@ -1,3 +1,4 @@
+
 "use strict";
 /*  Autores : Allan e Abner
     Versão: 1.1
