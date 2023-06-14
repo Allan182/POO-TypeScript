@@ -39,7 +39,7 @@ export class Funcionario extends Pessoa {
         return `${super.toString()}\n Matricula: ${this.matricula}\n Salário: ${this.salario} `
     }
 
-    getNomeEmpresa(){
+    public getNomeEmpresa(){
         return "Ifes Campus Santa Teresa";
     }
 

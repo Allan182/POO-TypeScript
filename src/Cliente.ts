@@ -22,7 +22,7 @@ export class Cliente extends Pessoa {
         return `${super.toString()}\n Cod Cartão: ${this.codCartao}`;
     }
 
-    getNomeEmpresa(){
+    public getNomeEmpresa(){
         return "Ifes Campus Serra";
     }
 
